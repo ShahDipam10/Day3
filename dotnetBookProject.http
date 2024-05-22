@@ -1,0 +1,6 @@
+@dotnetBookProject_HostAddress = http://localhost:5064
+
+GET {{dotnetBookProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
